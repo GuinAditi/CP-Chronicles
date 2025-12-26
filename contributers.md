@@ -39,6 +39,7 @@
 | Khushi Shorey          | khushishorey            | IIIT Allahabad |
 | Nitin Kumar          | Nitinkr03          | IIIT Allahabad 
 | Manisha katariya       | chanchukatariya5        | IIIT Allahabad                                                   |
+| Harsh Verma            | harshverma14            | IIIT Allahabad                                                   |    
 | Ayush Mishra           | ayush-mg                | IIIT Allahabad                                                   |
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
