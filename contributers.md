@@ -13,10 +13,10 @@
 | Varad Singhal           | VaradSinghal           | SRMIST                          |
 | Hardik Singh Rana       | hardik-rana02          | IIIT Allahabad                  |
 | OMDEEP                  | omicoded19             | IIITA                           | 
+| BEESA MANISH            | MANISH-BEESA           | MLRIT                           |
 | Himansh Arora           | Humanshere             |  IIIT Allahabad                 | 
 | Kushagra Raghuvanshi    | Taskmaster-afk         | IIIT Allahabad                  |
 | Kamakshi Gupta          | 29kamakshigupta        | IIIT Allahabad                  |
  <!-- ADD ABOVE THIS -->
-
 <!-- example | Korvac | Betty | Reyansh College | -->
 
