@@ -75,6 +75,7 @@
 | Sachin Benakannavar | sachinbenakannavar696 | IIIT Allahabad |
 | Aaryan Degama  |  Aaryan-Degama  |  IIIT Allahabad        
 |Aditi Deshmukh         | InsanelySlowBurn          | IIIT Allahabad     
-| Amogh S. | MogaS811 | IIIT Allahabad |                                                     |
+| Amogh S. | MogaS811 | IIIT Allahabad |
+|Shambhu Chadana | Zarxeon | IIIT ALLAHABAD
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
